@@ -5,6 +5,8 @@ https://stackoverflow.com/questions/37103607/convert-any-file-into-a-binary-file
 
 https://www.jango.com/
 
+https://www.howtohaven.com/system/view-binary-file-on-windows.shtml
+
 /////////////////////////w3schools//////////////////////////////
 <!DOCTYPE html>
 <html>

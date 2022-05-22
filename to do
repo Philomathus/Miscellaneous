@@ -1,0 +1,16 @@
+1st week
+1. What's the box model?
+2. What's the difference between react and webpack?
+
+2nd week
+1. A photo album, use CSS3 animation, parameters: photos, switch types, and switch time (zip).
+
+2. The difference between webpack's loader and plugin.
+
+3rd week
+1. Generally speaking, pictures are 2D. How many dimensions do you think a web page has and why?
+2. Describe in detail all the steps and content of an HTTP request. Which of these steps, attributes, parameters are typically of concern to the frontend?
+
+4th week
+1. What's OOP, its main concept and why is it the most dominant programming model?
+2. How do browsers render page

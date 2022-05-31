@@ -9,6 +9,9 @@ https://www.howtohaven.com/system/view-binary-file-on-windows.shtml
 
 https://superuser.com/questions/468456/how-can-i-view-the-binary-contents-of-a-file-natively-in-windows-7-is-it-possi
 
+dojoya1348@steamoh.com
+maxwell
+
 /////////////////////////w3schools//////////////////////////////
 <!DOCTYPE html>
 <html>
